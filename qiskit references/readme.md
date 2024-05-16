@@ -6,3 +6,5 @@ In our thesis, there are references to the documentation of IBM Qiskit. Since IB
 /cairo: https://github.com/Qiskit/qiskit-ibm-runtime/blob/stable/0.23/qiskit_ibm_runtime/fake_provider/backends/cairo/
 
 /boeblingen: https://github.com/Qiskit/qiskit-ibm-runtime/blob/stable/0.23/qiskit_ibm_runtime/fake_provider/backends/boeblingen/
+
+(copied May 2024)
